@@ -59,3 +59,17 @@
   </tr>
 </table>
 
+## Welcome to the Party Parrots Club 🦜🎉
+<table style="width:100%;">
+<p
+    <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width=10% />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width=10% />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width=10% />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width=10% />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width=10% />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width=10% />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width=10% />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width=10% />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width=10% />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width=10% />
+ </p>
