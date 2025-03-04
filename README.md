@@ -48,7 +48,9 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://media1.tenor.com/m/lCKwsD2OW1kAAAAC/happy-cat-happy-happy-cat.gif" alt="dev" width="100%"/>
+        <img src="https://th.bing.com/th/id/R.270ef77e819b2d673848751ee067304a?rik=owewyaLZ6L%2bKKQ&pid=ImgRaw&r=0" alt="dev" width="100%"/>
+        <img src="https://media.tenor.com/ti2XyaFL06kAAAAi/cat-spin.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
