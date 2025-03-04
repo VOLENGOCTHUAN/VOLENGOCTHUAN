@@ -1,5 +1,8 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <img align="right" width="64" src="https://github.com/VOLENGOCTHUAN.png" />
+<p align="center"><img src="https://khoinguonsangtao.vn/wp-content/uploads/2022/10/anh-nen-co-viet-nam-va-bac.jpg"/></p>
+<p align="center"><img src="https://th.bing.com/th/id/OIP.Mbqg6oFXAl5zwURz1yjcIwHaHI?w=202&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7"/></p>
+<p align="center"><img src="https://media1.tenor.com/m/g0NZZbLbzJgAAAAC/l%C3%A1c%E1%BB%9D-qu%E1%BB%91c-k%E1%BB%B3.gif"/></p>
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Helu 👋, I'm VO LE NGOC THUAN, I was born on May 5, 2004, Glad to have you visit my page 😽</h2>
