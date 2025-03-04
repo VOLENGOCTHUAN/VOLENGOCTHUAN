@@ -2,7 +2,7 @@
 <img align="right" width="64" src="https://github.com/VOLENGOCTHUAN.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hi 👋, I'm VO LE NGOC THUAN</h2>
+<h2 align="center">Helu 👋, I'm VO LE NGOC THUAN, I was born on May 5, 2004, Glad to have you visit my page 😽</h2>
 <p align="center">
   <h3 align="center">A simple guy, chill guy from Vietnam 🇻🇳 </h3>
 </p>
