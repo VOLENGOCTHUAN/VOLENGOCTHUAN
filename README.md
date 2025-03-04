@@ -1,7 +1,7 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="80" src="https://github.com/VOLENGOCTHUAN.png" />
-<p align="left"><img src="images/cat.jpg" width="80px"/> </p>
-<p align="center"><img src="images/MeagerAdmirableGrasshopper-size_restricted.gif" width="80px"/> </p>
+<img align="right" width="100px" src="https://github.com/VOLENGOCTHUAN.png" />
+<p align="left"><img src="images/cat.jpg" width="100px"/> </p>
+<p align="center"><img src="images/MeagerAdmirableGrasshopper-size_restricted.gif" width="100px"/> </p>
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Helu 👋, I'm VO LE NGOC THUAN, I was born on May 5, 2004, Glad to have you visit my page 😽</h2>
@@ -41,7 +41,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </p>
 
-## Activities:                                                                      ##Meme
+## Activities:             
 <table style="width:100%;">
   <tr>
     <td>
