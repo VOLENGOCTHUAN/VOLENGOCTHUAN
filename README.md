@@ -48,10 +48,10 @@
     </td>
     <td>
       <p align="center"> 
+        <img src="https://th.bing.com/th/id/R.0e96d46a5b0747fd69bd661fcd945568?rik=xcrp0iOWufW20w&pid=ImgRaw&r=0" alt="dev" width="40%"/>
         <img src="https://media.tenor.com/ZPHHiCRxrlsAAAAj/happy-happy-happy-cat.gif" alt="dev" width="40%"/>
         <img src="https://th.bing.com/th/id/R.270ef77e819b2d673848751ee067304a?rik=owewyaLZ6L%2bKKQ&pid=ImgRaw&r=0" alt="dev" width="40%"/>
         <img src="https://media.tenor.com/ti2XyaFL06kAAAAi/cat-spin.gif" alt="dev" width="40%"/>
-        <img src="https://th.bing.com/th/id/OIP.3BgMH5hDVuzgiFZA9NmHwgHaEK?rs=1&pid=ImgDetMain" alt="dev" width="40%"/>
       </p>
     </td>
   </tr>
