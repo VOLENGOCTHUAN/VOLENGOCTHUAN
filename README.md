@@ -1,7 +1,6 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <img align="right" width="80" src="https://github.com/VOLENGOCTHUAN.png" />
-<p align="left"><img src="images/cat" width="80px"/> </p>
-<p align="center"><img src="images/anh-nen-co-viet-nam-va-bac.jpg" width="80px"/> </p>
+<p align="left"><img src="images/cat.jpg" width="80px"/> </p>
 <p align="center"><img src="images/MeagerAdmirableGrasshopper-size_restricted.gif" width="80px"/> </p>
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
