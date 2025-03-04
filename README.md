@@ -1,6 +1,6 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <img align="right" width="100px" src="https://github.com/VOLENGOCTHUAN.png" />
-<p align="left"><img src="hinh-anh-nguoi-nhen-spiderman-44.jpg" width="100px"/> </p>
+<p align="center"><img src="hinh-anh-nguoi-nhen-spiderman-44.jpg" width="100px"/> </p>
 <p align="left"><img src="images/cat.jpg" width="100px"/> </p>
 <p align="center"><img src="images/welcome to my github.gif" width="1100px" height= "300px"/> </p>
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
