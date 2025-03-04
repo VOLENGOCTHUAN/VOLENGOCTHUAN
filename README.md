@@ -1,8 +1,8 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <img align="right" width="64" src="https://github.com/VOLENGOCTHUAN.png" />
-<p align="center"><img src="images/anh-nen-co-viet-nam-va-bac.jpg" width=""48px/> </p>
-<p align="center"><img src="images/MeagerAdmirableGrasshopper-size_restricted.gif" width=""48px/> </p>
-<p align="center"><img src="images/logo_NTU.jpg" width=""48px/> </p>
+<p align="center"><img src="images/anh-nen-co-viet-nam-va-bac.jpg" width="48px"/> </p>
+<p align="center"><img src="images/MeagerAdmirableGrasshopper-size_restricted.gif" width="48px"/> </p>
+<p align="center"><img src="images/logo_NTU.jpg" width="48px"/> </p>
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Helu 👋, I'm VO LE NGOC THUAN, I was born on May 5, 2004, Glad to have you visit my page 😽</h2>
