@@ -81,11 +81,6 @@
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cultofthepartyparrot.com/parrots/shufflepartyparrot.gif">
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cultofthepartyparrot.com/parrots/shufflefurtherparrot.gif">
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cultofthepartyparrot.com/parrots/pizzaparrot.gif">
-  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cultofthepartyparrot.com/parrots/oldtimeyparrot.gif">
-  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cultofthepartyparrot.com/parrots/icecreamparrot.gif">
-  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cultofthepartyparrot.com/parrots/hamburgerparrot.gif">
-  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cultofthepartyparrot.com/parrots/fiestaparrot.gif">
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cultofthepartyparrot.com/parrots/explodyparrot.gif">
-  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cultofthepartyparrot.com/parrots/chillparrot.gif">
  </p>
 </table>
